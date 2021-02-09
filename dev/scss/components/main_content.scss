@@ -1,0 +1,14 @@
+.main-container{
+    display: flex;
+    justify-content: space-around;
+
+    .banner {
+        text-align: center;
+        h2 {
+            padding: 10px;
+        }
+        h3 span {
+            font-weight: normal;
+        }
+    }
+}
